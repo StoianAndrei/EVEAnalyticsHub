@@ -29,7 +29,7 @@ You can install the development version of EVEAnalyticsHub from [GitHub](https:/
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("StoianAndrei/EVEAnalyticsHub")
+# devtools::install_github("StoianAndrei/EVEAnalyticsHub")
 ```
 
 ## Example
@@ -37,7 +37,7 @@ devtools::install_github("StoianAndrei/EVEAnalyticsHub")
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
-library(EVEAnalyticsHub)
+# library(EVEAnalyticsHub)
 ## basic example code
 ```
 
